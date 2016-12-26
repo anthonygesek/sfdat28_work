@@ -1,0 +1,58 @@
+,malt_char_description,malt_char_id,malt_char_name,malt_id,malt_name
+0,Imparts a chocolate quality upon the beer.,6.0,Chocolate,429.0,Chocolate Malt
+1,Imparts a malty flavor upon the beer.,10.0,Malty,650.0,Munich Malt
+2,Imparts a malty flavor upon the beer.,10.0,Malty,589.0,Honey Malt
+3,Imparts a malty flavor upon the beer.,10.0,Malty,234.0,Pale Malt
+8,Imparts a burnt tasting quality upon the beer.,4.0,Burnt,753.0,Barley - Roasted
+12,Imparts a coffee flavor upon the beer.,7.0,Coffee,247.0,Black Malt
+13,Imparts a caramel quality upon the beer.,5.0,Caramel,1924.0,CaraMunich
+15,Imparts a nutty flavor upon the beer.,11.0,Nutty,1920.0,Maris Otter
+19,Imparts an aromatic quality upon the beer.,1.0,Aromatic,209.0,Aromatic Malt
+21,Imparts an aromatic quality upon the beer.,1.0,Aromatic,790.0,Special B Malt
+22,Increases the body of the beer.,3.0,Body,692.0,Oats - Malted
+26,Imparts a malty flavor upon the beer.,10.0,Malty,865.0,Wheat Malt - White
+30,Increases the body of the beer.,3.0,Body,382.0,Caramel/Crystal Malt 10L
+31,Increases the body of the beer.,3.0,Body,482.0,Caramel/Crystal Malt 55L
+32,Imparts a sweet flavor upon the beer.,14.0,Sweet,580.0,Golden Promise
+42,Increases the body of the beer.,3.0,Body,386.0,Caramel/Crystal Malt 60L
+43,Imparts a smoked quality upon the beer.,13.0,Smoked,785.0,Smoked Malt
+45,Increases the body of the beer.,3.0,Body,477.0,Caramel/Crystal Malt 15L
+47,Increases the body of the beer.,3.0,Body,365.0,CaraPils/Dextrin Malt
+50,Increases the body of the beer.,3.0,Body,367.0,CaraAroma
+52,Imparts an aromatic quality upon the beer.,1.0,Aromatic,246.0,Biscuit Malt
+55,Increases the body of the beer.,3.0,Body,278.0,Caramel/Crystal Malt 30L
+62,Imparts an aromatic quality upon the beer.,1.0,Aromatic,813.0,Victory Malt
+71,Increases the body of the beer.,3.0,Body,388.0,Caramel/Crystal Malt 120L
+74,Increases the body of the beer.,3.0,Body,387.0,Caramel/Crystal Malt 80L
+80,Increases the body of the beer.,3.0,Body,376.0,CaraFoam
+81,Increases the body of the beer.,3.0,Body,396.0,CaraRed
+93,Increases the body of the beer.,3.0,Body,385.0,Caramel/Crystal Malt 40L
+103,Imparts an aromatic quality upon the beer.,1.0,Aromatic,626.0,Melanoidin Malt
+107,Imparts an aromatic quality upon the beer.,1.0,Aromatic,371.0,Carafa II
+111,Increases the body of the beer.,3.0,Body,521.0,Caramel/Crystal Malt 50L
+135,Increases the body of the beer.,3.0,Body,481.0,Caramel/Crystal Malt 45L
+139,Increases the body of the beer.,3.0,Body,362.0,Caramel/Crystal Malt 20L
+147,Increases the body of the beer.,3.0,Body,398.0,CaraStan
+161,Imparts a malty flavor upon the beer.,10.0,Malty,651.0,Munich Malt 10L
+171,Imparts a biscuity quality upon the beer.,2.0,Biscuit,338.0,Brown Malt
+202,Imparts an aromatic quality upon the beer.,1.0,Aromatic,370.0,Carafa I
+261,Helps the head retention of the beer.,9.0,Head,166.0,Acidulated Malt
+300,Imparts an aromatic quality upon the beer.,1.0,Aromatic,372.0,Carafa III
+334,Increases the body of the beer.,3.0,Body,485.0,Caramel/Crystal Malt 75L
+374,Imparts a biscuity quality upon the beer.,2.0,Biscuit,181.0,Amber Malt
+458,Increases the body of the beer.,3.0,Body,1961.0,Caramel/Crystal Malt 300L
+479,Increases the body of the beer.,3.0,Body,476.0,Caramel/Crystal Malt 150L
+510,Imparts an aromatic quality upon the beer.,1.0,Aromatic,791.0,Special Roast
+533,Imparts a burnt tasting quality upon the beer.,4.0,Burnt,1955.0,Black Patent
+566,Imparts a malty flavor upon the beer.,10.0,Malty,310.0,Munich Malt - Organic
+574,Imparts an aromatic quality upon the beer.,1.0,Aromatic,697.0,Pale Malt - Optic
+696,Imparts a malty flavor upon the beer.,10.0,Malty,652.0,Munich Malt 20L
+718,Imparts an aromatic quality upon the beer.,1.0,Aromatic,401.0,CaraWheat
+785,Imparts a malty flavor upon the beer.,10.0,Malty,544.0,Munich Malt 40L
+989,Imparts an aromatic quality upon the beer.,1.0,Aromatic,802.0,Toasted Malt
+1047,Imparts a malty flavor upon the beer.,10.0,Malty,172.0,Munich Malt - Smoked
+1181,Increases the body of the beer.,3.0,Body,1934.0,Caramel/Crystal Malt 85L
+1184,Imparts an aromatic quality upon the beer.,1.0,Aromatic,437.0,Chocolate Wheat Malt
+1603,Increases the body of the beer.,3.0,Body,487.0,Caramel/Crystal Malt 90L
+1637,Increases the body of the beer.,3.0,Body,522.0,Caramel/Crystal Malt 70L
+2176,Increases the body of the beer.,3.0,Body,507.0,Caramel/Crystal Malt 8L
