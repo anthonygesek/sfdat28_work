@@ -1,0 +1,6 @@
+project ideas
+
+large scale correlations between natural disasters and zip code caracteristics
+
+beer reccomendation engine
+
